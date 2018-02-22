@@ -33,49 +33,49 @@ I started learning JavaScript in 2017 from early ES3 up to ES6. Before this I ha
 
 Algorithmus - is a single page application build with Angular. After I began accumulating a moderate amount of solved algorithms that had become spread across my computer, I decided to collect them all and combine them in one app. I added a few features to it and it includes a Test Performance function for testing the code and an Acceptance Test for each algorithm.  
 
-Source [Algorithmus](https://github.com/MaximSemenov/algorithmus)
+[Algorithmus Source](https://github.com/MaximSemenov/algorithmus)
 
-Demo [Algorithmus demo](https://maximsemenov.github.io/algorithmus/)
+[Algorithmus Demo](https://maximsemenov.github.io/algorithmus/)
 
 ### Gmail Clone
 
 Gmail Clone - is an Angular adaptation of the best mail service by Google - Gmail. 
 
-Source [Chessboard](https://github.com/MaximSemenov/gmail-clone)
+[Gmail Clone Source](https://github.com/MaximSemenov/gmail-clone)
 
-Demo [Chessboard](https://maximsemenov.github.io/gmail-clone/)
+[Gmail Clone Demo](https://maximsemenov.github.io/gmail-clone/)
 
 ### Chessboard
 
 Chessboard - is a square board that can be used for many board games that require checkered squares to play on. You can click on it to start and move the highlighted square by using keyboard arrow keys.
 
-Source [Chessboard](https://github.com/MaximSemenov/pure-javascript-chessboard/)
+[Chessboard Source](https://github.com/MaximSemenov/pure-javascript-chessboard/)
 
-Demo [Chessboard Demo](https://maximsemenov.github.io/pure-javascript-chessboard/)
+[Chessboard Demo](https://maximsemenov.github.io/pure-javascript-chessboard/)
 
 ### Checkers game
 
 Checkers - is a board game for two players which involve diagonal moves of uniform game pieces and mandatory captures by jumping over opponent pieces. I though it would be fun to create this game since I had already created the board and now just needed to add the funtionality of moving pieces and capturing opponents.
 
-Source [Checkers game](https://github.com/MaximSemenov/checkers-game)
+[Checkers game Source](https://github.com/MaximSemenov/checkers-game)
 
-Demo [Checkers demo](https://maximsemenov.github.io/checkers-game/)
+[Checkers Demo](https://maximsemenov.github.io/checkers-game/)
 
 ### Angular Admin
 
 Angular Admin - is an adaptation of a static html template with many pages and jQuery, into a dynamic and powerful Angular single page application.  
 
-Source [Admin Panel](https://github.com/MaximSemenov/angular-5-admin)
+[Admin Panel Source](https://github.com/MaximSemenov/angular-5-admin)
 
-Demo [Admin Panel demo](https://maximsemenov.github.io/angular-5-admin/)
+[Admin Panel Demo](https://maximsemenov.github.io/angular-5-admin/)
 
 ### Calculator
 
 Calculator - is the first application I made with plain JavaScript. I haven't chosen to upgrade it because I like to have a record of the progress I've been able to make as I continue to grow and develop as a programist in JavaScript.
 
-Source [Calculator](https://github.com/MaximSemenov/pure-javascript-simple-and-ugly-calculator)
+[Calculator Source](https://github.com/MaximSemenov/pure-javascript-simple-and-ugly-calculator)
 
-Demo [Calculator demo](https://maximsemenov.github.io/pure-javascript-simple-and-ugly-calculator/)
+[Calculator Demo](https://maximsemenov.github.io/pure-javascript-simple-and-ugly-calculator/)
 
 ## VPS
 
