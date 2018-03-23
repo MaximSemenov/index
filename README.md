@@ -43,7 +43,7 @@ Gmail Clone - is an Angular adaptation of the best mail service by Google - Gmai
 
 [Gmail Clone Source](https://github.com/MaximSemenov/gmail-clone)
 
-[Gmail Clone Demo](https://maximsemenov.github.io/gmail-clone/)
+[Gmail Clone Demo](http://173.255.247.60)
 
 ### Chessboard
 
