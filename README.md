@@ -39,11 +39,14 @@ Algorithmus - is a single page application build with Angular. After I began acc
 
 ### Gmail Clone
 
-Gmail Clone - is an Angular adaptation of the best mail service by Google - Gmail. 
+Gmail Clone - is an Angular adaptation of the best mail service by Google - Gmail. PHP and MySQL are used for the server side.  
 
 [Gmail Clone Source](https://github.com/MaximSemenov/gmail-clone)
 
 [Gmail Clone Demo](http://173.255.247.60)
+
+login: demo
+password: demo
 
 ### Chessboard
 
