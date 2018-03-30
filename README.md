@@ -45,8 +45,8 @@ Gmail Clone - is an Angular adaptation of the best mail service by Google - Gmai
 
 [Gmail Clone Demo](http://173.255.247.60)
 
-login: demo
-password: demo
+**Login:** demo\
+**Password:** demo
 
 ### Chessboard
 
