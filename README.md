@@ -7,7 +7,7 @@ Hello, my name is Maxim and I am a web-developer specialized in JavaScript. I cr
 * [What languages and frameworks I use](#languages-and-frameworks)
 * [List of my projects](#list-of-projects)
   * [Algorithmus](#algorithmus) - Angular, TypeScript, NodeJS
-  * [Gmail Clone](#gmail-clone) - Angular, TypeScript
+  * [Gmail Clone](#gmail-clone) - Angular, TypeScript, MySQL and PHP
   * [Checkers](#checkers-game) - JavaScript ES6
   * [Cheesboard](#chessboard) - Vanilla JavaScript
   * [Algorithmus](#algorithmus) - Angular, TypeScript, NodeJS
