@@ -31,7 +31,7 @@ I started learning JavaScript in 2017 from early ES3 up to ES6. Before this I ha
 
 ### Algorithmus
 
-Algorithmus - is a single page application build with Angular. After I began accumulating a moderate amount of solved algorithms that had become spread across my computer, I decided to collect them all and combine them in one app. I added a few features to it and it includes a Test Performance function for testing the code and an Acceptance Test for each algorithm.  
+Algorithmus - is a single page application build with Angular. After I began accumulating a moderate amount of solved algorithms that had become spread across my computer, I decided to collect them all and combine them in one app. I added a few features to it and it includes a Test Performance function for testing the code and an Acceptance Test for each algorithm. There is a delay when you do your first Acceptance Test to "wake up" Heroku due to a free Heroku package I used for this project.
 
 [Algorithmus Source](https://github.com/MaximSemenov/algorithmus)
 
