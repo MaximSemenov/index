@@ -9,8 +9,7 @@ Hello, my name is Maxim and I am a web-developer specialized in JavaScript. I cr
   * [Algorithmus](#algorithmus) - Angular, TypeScript, NodeJS
   * [Gmail Clone](#gmail-clone) - Angular, TypeScript, MySQL and PHP
   * [Checkers](#checkers-game) - JavaScript ES6
-  * [Cheesboard](#chessboard) - Vanilla JavaScript
-  * [Algorithmus](#algorithmus) - Angular, TypeScript, NodeJS
+  * [Chessboard](#chessboard) - Vanilla JavaScript
   * [Angular admin](#angular-admin) - Angular, TypeScript
   * [Calculator](#calculator) - Vanilla JavaScript
 * [What virtual server provider I use ](#VPS)
