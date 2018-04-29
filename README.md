@@ -9,7 +9,7 @@ Hello, my name is Maxim and I am a web-developer specialized in JavaScript. I cr
   * [Algorithmus](#algorithmus) - Angular, TypeScript, NodeJS
   * [Gmail Clone](#gmail-clone) - Angular, TypeScript, MySQL and PHP
   * [Checkers](#checkers-game) - JavaScript ES6
-  * [Dutch Car Tax Calculator](#ducth-car-tax-calculator) - Angular5, TypeScript
+  * [Dutch Car Tax Calculator](#dutch-car-tax-calculator) - Angular5, TypeScript
   * [Chessboard](#chessboard) - Vanilla JavaScript
   * [Angular admin](#angular-admin) - Angular, TypeScript
   * [Calculator](#calculator) - Vanilla JavaScript
@@ -68,9 +68,9 @@ Checkers - is a board game for two players which involve diagonal moves of unifo
 
 Dutch Car Tax Calculator - is a small app that helps you calculate quarterly tax payment for your car. If you live in the Netherlands and own a vehicle, you will have to pay motor vehicle tax. Choose the province, gas type and vehicle weight.
 
-[Checkers game Source](https://github.com/MaximSemenov/dutch-car-tax)
+[Dutch Car Tax Calculator Source](https://github.com/MaximSemenov/dutch-car-tax)
 
-[Checkers Demo](https://maximsemenov.github.io/dutch-car-tax/)
+[Dutch Car Tax Calculator Demo](https://maximsemenov.github.io/dutch-car-tax/)
 
 ### Angular Admin
 
